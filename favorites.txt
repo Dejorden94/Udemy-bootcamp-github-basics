@@ -1,3 +1,10 @@
+FOOD
+
 1. Steak
 2. Grilled vegetables
 3. Shoarma
+
+MOVIES
+1. Mementos
+2. Fight club
+3. Elvis
